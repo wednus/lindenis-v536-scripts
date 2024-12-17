@@ -1630,7 +1630,7 @@ function do_signature()
 
 function do_pack_tina()
 {
-	printf "packing for tina linux\n"
+	printf "packing for flag linux\n"
 
 	rm -rf vmlinux.fex
 	rm -rf boot.fex
